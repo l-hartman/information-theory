@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 
-
 """
 Luke Hartman
 13-9-19
