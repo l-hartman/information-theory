@@ -1,0 +1,14 @@
+- Hunting for roots in finite field polynomials with Chien search
+- Look up BCH(15,7) example from in class
+	- suppose r, determine most likely codeword
+		- calculate syndromes over GF(16)
+		    r(x) = x^3 + ... + x^12
+		   s_1 = r(alpha) = ... = alpha^10
+		- look up cooper article
+		- determine the error locator polynomial	
+			- alhpha^5  = 1/a^10
+			- stop at lambda 2 bc 15,7 2 error correcting code 	
+		- find the roots of lmbda(x) by checking them exhaustively
+		
+- like hw7, but with a different r
+
